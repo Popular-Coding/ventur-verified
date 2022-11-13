@@ -1,0 +1,10 @@
+{
+    "name": "Ventur Collator",
+    "issued-by": "Ventur",
+    "description": "Holders of this badge have proven that they are capable of running a trusted collator on the Ventur network, and that at the time of assignment they are in excellent standing based on the below metrics. They have maintained over 95% uptime over the course of 6 month and they have been free of any slashes over the course of 1 year.",
+    "skills": [
+        "Ventur",
+        "Investor"
+    ]
+}
+  

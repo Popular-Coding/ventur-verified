@@ -13,11 +13,11 @@ Built on top of Ventur’s Non-Transferable NFTs (NT-NFTs), Ventur Verified allo
 
 
 ### Problem Statement
-Blockchains and the Web3 space introduce a new, "trustless" paradigm, where interactions no longer need to rely on trust between two parties; instead, all contracts are verified, which means an individual's transactions, credentials, and identity are recorded on a practically tamper-proof chain. 
+Blockchains and the Web3 space introduce a new, "trustless" paradigm, where interactions no longer need to rely on trust between two parties; instead, all contracts are verified, which means an individual's transactions, credentials, and identity are recorded immutably on-chain. 
 
-Thanks to this trustless paradigm, we can easily verify an individual's actions in the blockchain ecosystem. It becomes near-impossible to present fabricated information about an individual's history, as everything is recorded and verified on the chain. 
+Thanks to this trustless paradigm, we can verify an individual's actions in the blockchain ecosystem. You no longer have to rely on trusting someone's reputation, as their history of interactions is recorded and verified on-chain. 
 
-However, for an end-user, be it a business or a consumer, checking records on the blockchain is not always a viable option. That would require resources or access not available to all. This gives rise to the need for an easily-accessible application that would present this verified data in a human-readable format. 
+However, for an end-user, checking records is a multi-step process, and depending on what you are looking to verify, this could require parsing through significant amounts of data to verify what you are looking for.  While blockchain explorers do exist for this purpose, this is not conducive to quick interperson interactions or rapid decision making.
 
 
 ### Ventur Verified as a Solution
@@ -27,15 +27,15 @@ NT-NFT certifications can be asigned based on on-chain interactions. This could 
 
 A company might also present certifications for off-chain accomplishments, such as certification exams or courses.
 
-Regardless of the reasoning behind their assignment and acceptance, NT-NFTs behave similarly to traditional NFTs, aside from the fact that they are non-transferable. An NT-NFT assigned to an account cannot be re-assigned to another account, which gives you the certainty that if an individual presents a certification, they earned it; its presence on their chain cannot be fabricated, and no one other than the certification authority could have passed it on to them. You can rest easy knowing someone cannot falsify their resume. 
+An NT-NFT assigned to an account cannot be re-assigned to another account.
 
-Aside from the peace of mind Ventur's NT-NFTs provide, Ventur Verified also offers the ease of use for all parties involved:
+Ventur Verified enables:
 
-- A certification authority can create and maintain certifications with a few clicks of a button.
-- An individual can reliably present their certifications on their easy-to-digest personal page. 
-- A business can view individuals' pages, easily identifying whether a user's certifications meet their desired qualifications for a contract. 
+- Creating and maintaining certifications with a few clicks of a button.
+- Present certifications on an easy-to-digest account profile. 
+- Easily identify, manually or programatically, whether a user's certifications meet the desired qualifications for a contract. 
 
-With Ventur Verified, we aim to streamline the process of making reliable connections to set up contracts, because at Ventur, we mean business.  
+All in all, Ventur Verified aims to streamline the process of making reliable connections to setting up contracts. 
 
 ### User Interface
 

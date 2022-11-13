@@ -1,0 +1,68 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 24px;
+    gap: 40px;
+
+    position: absolute;
+    width: 644px;
+    height: 654px;
+    left: 434px;
+    top: 164px;
+
+    /* Surfaces/Dark 2 */
+
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.08)), #111114;
+    border-radius: 12px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+
+    width: 596px;
+    height: 526px;
+    position: absolute;
+    top: 24px;
+    left: 24px;
+}
+
+.assign-cert {
+    width: 596px;
+    height: 40px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+
+    width: 596px;
+    height: 526px;
+}
+
+.recipient-details {
+    width: 124px;
+    height: 32px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+
+    mix-blend-mode: normal;
+}
