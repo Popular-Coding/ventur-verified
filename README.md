@@ -54,7 +54,7 @@ All in all, Ventur Verified aims to streamline the process of making reliable co
 ### Technical Documentation
 
 #### Architecture
-![Architecture](media/ventur-verified-dapp.jpg)
+![Architecture](media/ventur-stack.png)
 ### Next Steps
 - Refine UI Iteratively with User Testing
 - Launch dApp on Ventur Testnet
